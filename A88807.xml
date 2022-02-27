@@ -1,0 +1,827 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peplum olivarii, or A good prince bewailed by a good people. Represented in a sermon October 13. 1658. upon the death of Oliver late Lord Protector. By George Lawrence A.M. minister of Crosses Hospital.</title>
+            <author>Lawrence, George, 1615-1695?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88807</idno>
+            <idno type="STC">Wing L659</idno>
+            <idno type="STC">Thomason E959_4</idno>
+            <idno type="STC">ESTC R207645</idno>
+            <idno type="EEBO-CITATION">99866684</idno>
+            <idno type="PROQUEST">99866684</idno>
+            <idno type="VID">118966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118966)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 143:E959[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peplum olivarii, or A good prince bewailed by a good people. Represented in a sermon October 13. 1658. upon the death of Oliver late Lord Protector. By George Lawrence A.M. minister of Crosses Hospital.</title>
+                  <author>Lawrence, George, 1615-1695?</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.M. for Samuel Thomson at the Bishops head in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118966:1" rendition="simple:additions"/>
+            <p>PEPLUM <hi>OLIVARII,</hi> OR, A good Prince BEWAILED BY A GOOD PEOPLE. Repreſented in a SERMON <hi>October</hi> 13. 1658. Upon the death of OLIVER Late Lord Protector.</p>
+            <p>By <hi>George Lawrence</hi> A. M. Miniſter of <hi>Croſses Hoſpital.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>Homeri Iliad. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. ſaid Achilles.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Theodoſius tan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Imperator receſſit à nobis; Non totus receſſit; reliquit enim no<g ref="char:EOLhyphen"/>bis HONORIUM, &amp; filios ſuos, i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quibus eum debemus agnoſcere.</hi> 
+                  <bibl>Ambroſius <hi>in</hi> Obitu Theodoſii.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>When the Inhabitants of the Land ſaw the mourning in the floor of <hi>Arad,</hi> they ſaid This is a grievous mourning: wherefore the name of it was called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ABEL MIZRAIM.</hi>
+               </p>
+               <bibl>
+                  <hi>Geneſis</hi> 50.11.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. M.</hi> for <hi>Samuel Thomſon</hi> at the Biſhops head in <hi>Pauls</hi> Church-yard. 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118966:2"/>
+            <pb facs="tcp:118966:2"/>
+            <head>TO THE THRICE ILLUSTRIOUS RICHARD LORD PROTECTOR OF <hi>ENGLAND, SCOTLAND &amp; IRELAND,</hi> AND THE Dominions Thereunto belonging.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O accept this poor Oblation, as a Teſtimony of my unſpeakable grief and ſympathie for the loſſe of your Renowned father, <hi>OLI<g ref="char:EOLhyphen"/>VER LATE LORD PROTECTOR,</hi> and as a parempha<g ref="char:EOLhyphen"/>ſis and acknowledgment of thankfulneſſe for your Highneſſe perſonal undeſerved reſpects to</p>
+            <closer>
+               <signed>Your moſt Loyal, And Humble Subject, George Lawrence.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:118966:3"/>
+            <pb n="1" facs="tcp:118966:3"/>
+            <head>PEPLUM <hi>OLIVARII,</hi> OR, A good Prince BEWAILED BY A <hi>GOOD PEOPLE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 CHRON. 35.24.</hi>
+                  </bibl>
+                  <p>— All Judah and Jeruſalem mourned for Joſiah.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the twentieth <hi>Verſe</hi> is Deſcribed the ſubſequent manner of <hi>Joſiah</hi>'s death,
+<note place="margin">The Cohe<g ref="char:EOLhyphen"/>rence.</note> after he had done ſo many Glorious Actions, and eſpecially his unexam<g ref="char:EOLhyphen"/>pled Preparation of the Temple. That we may underſtand ſaith <hi>Caje<g ref="char:EOLhyphen"/>tan,</hi> That Divine Grace even in the time of the Old Teſtament is granted to the very friends of God not according to life temporal, though it be very much de<g ref="char:EOLhyphen"/>ſired.</p>
+            <pb n="2" facs="tcp:118966:4"/>
+            <p>And the occaſion was this. <hi>Pharaoh Necho,</hi> (or the lame) King of <hi>Egypt</hi> came to fight againſt the King of <hi>Aſsyria,</hi> 2 <hi>Kings</hi> 23.29. Whom ſome ſuppoſe to be <hi>Hadadrimmon,</hi> (or <hi>Adad</hi> the ſonne of <hi>Tabrimon,</hi> who was <hi>Benhadad,</hi> 1 <hi>Kings</hi> 15.18.) <hi>Joſiah</hi>'s confede<g ref="char:EOLhyphen"/>rate, and reigned in <hi>Carſhemiſh:</hi> from whom, or the a<g ref="char:EOLhyphen"/>bundance of Pomegranates, the City and the battel<g ref="char:EOLhyphen"/>field ſeeme to take their names. Which
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 70.</note> place was eminent for the mourning of <hi>Ahab</hi> ſlaine at <hi>Ramoth Gilead,</hi> ſay <hi>Jonathan, Adrichomius,</hi> and others; and e<g ref="char:EOLhyphen"/>ſpecially for the mourning for <hi>Joſiah</hi> wounded, and ſlaine in the Valley of <hi>Megiddo,</hi> Zech. 12.11. But that <hi>Benhadad</hi> was at this laſt fight, computers do de<g ref="char:EOLhyphen"/>ny, he being dead many years before this engagement of <hi>Joſias.</hi> And therefore more probable it was <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar</hi> the elder, who was both King of the Aſ<g ref="char:EOLhyphen"/>ſyrians and Babylonians, and <hi>Carchemiſh</hi> by <hi>Euphrates</hi> was his preſent hold, which being a Syrian City mentioned in <hi>Eſay</hi> 10.9. and <hi>Jerem.</hi> 46.2. ſent ma<g ref="char:EOLhyphen"/>ny forces (ſaith <hi>Joſephus</hi>) againſt the Medes, and <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> who had often worſted the Aſſyrians.</p>
+            <p>What was the cauſe now is not known, but it is apparent, that there was continual hatred betweene them. The Truth, and Antiquity of which ſtory, as to its ſubſtance, is atteſted by <hi>Herodotus</hi> in his ſe<g ref="char:EOLhyphen"/>cond book called <hi>Euterpe.</hi>
+            </p>
+            <p>
+               <hi>Lavater</hi> ſaith, That Interpreters write that the King of <hi>Aſſyria</hi> had expelled the King of <hi>Syria</hi> out of <hi>Carchemiſh,</hi> whom <hi>Necho</hi> intending to reſtore, brings his forces through <hi>Judah</hi> the neareſt way, having re<g ref="char:EOLhyphen"/>ceived a Commiſſion to make haſte, and <hi>Joſiah</hi> fear<g ref="char:EOLhyphen"/>ing National troubles, withſtood this lame, yet flying <hi>Necho.</hi>
+            </p>
+            <pb n="3" facs="tcp:118966:4"/>
+            <p>And Albeit <hi>Necho</hi> ſends him
+<note place="margin">
+                  <hi>Ver.</hi> 21.</note>
+            </p>
+            <p n="1">1. Ambaſſadours of Peace.</p>
+            <p n="2">2. Informs him of a ſpecial Commiſſion from God.</p>
+            <p n="3">3. Diſſwades him from intermedling.</p>
+            <p n="4">4. And though he tells him of the danger, as having received a prophecie from the Prophet <hi>Jeremy,</hi> that he ſhould go to <hi>Carchemiſh,</hi> and prevaile, ſaith <hi>Hierom</hi> in his Hebrew Traditions, yet notwithſtanding all his arguments, <hi>Joſiah</hi> provokes <hi>Necho,</hi> and drawes forth to fight in the Valley of <hi>Megiddo.</hi>
+            </p>
+            <p>Note, That the beſt of Gods people have their overſights and failings, which many times they cannot ſee to redreſſe, before it be too late.</p>
+            <p>
+               <hi>James</hi> 3.2. <hi>In many things</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>we ſtumble all. Humanum eſt errare. Homo ſum.
+<note n="*" place="margin">
+                     <hi>L.</hi> 1. <hi>Hiſtor. Alieno Imperio felicior, qudm ſao.</hi>
+                  </note> Tacitus</hi> ſaith of <hi>Sulpicius Galba,</hi> that he was more happy in anothers Kingdome, than his own: But <hi>Joſiah</hi> was more hap<g ref="char:EOLhyphen"/>py in his own Kingdome, than anothers.</p>
+            <p>And though ſome things may plead for <hi>Joſiah,</hi> as</p>
+            <p n="1">1. His zeal againſt a proud, cruel, and lofty perſon.</p>
+            <p n="2">2. His aſſiſtance of a Confederate.</p>
+            <p n="3">3. His defending his own Land from Invaſion.</p>
+            <p n="4">4. <hi>Necho</hi>'s pretended Commiſſion might have been a meere Colluſion, though the effect ſhewed other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="5">5. Expedition, and haſte to prevent an Incurſion; yet <hi>Joſiah</hi> was not blameleſſe.</p>
+            <p n="1">1. Becauſe hearing of <hi>Necho</hi>'s Commiſſion, he was incredulous: For God can ſpeak by wicked men, as <hi>Balaam, Caiaphas,</hi> yea by brutes, as by <hi>Balaams</hi> Aſſe.</p>
+            <p n="2">2. Becauſe he was ſelf-confident, perſiſting in his reſolved courſe.</p>
+            <pb n="4" facs="tcp:118966:5"/>
+            <p n="3">3. Becauſe he asked not counſel from God, ſaith <hi>Cajetan.</hi> He muſt be in haſte indeed, who taking a long journey, will not pray a ſhort prayer.</p>
+            <p>Whence we may learn,</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/> That there is not a juſt man upon earth that doth good, and ſinneth not, <hi>Eccleſ.</hi> 7.20.</p>
+            <p n="2">2. <milestone type="tcpmilestone" unit="unspecified" n="2"/> That God leaves his many times to try them, 2 <hi>Chron.</hi> 32.31.</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> That though God doth puniſh ſuch, yet he mo<g ref="char:EOLhyphen"/>derates his corrections. Seen in <hi>Aſa, Jehoſaphat, A<g ref="char:EOLhyphen"/>maziah, Uzziah, Hezekiah,</hi> and here <hi>Joſiah.</hi> Though he dies in <hi>Megiddo,</hi> yet in the peace of his Kingdome, and he lives in heaven.</p>
+            <p n="4">4. <milestone type="tcpmilestone" unit="unspecified" n="4"/> That the wiſeſt hath no cauſe to truſt in his own wiſdome, <hi>Eccleſ.</hi> 7.16, 17, 18, — <hi>Prov.</hi> 23, 4. <hi>Ceaſe from thine own wiſdome.</hi> For though <hi>Joſiah</hi> thirty years was a wiſe, holy, and happy Prince, yet he erred at laſt in bringing warre on <hi>Egypt.</hi> Many, and great be the errors of wiſe men, which made <hi>Cicero</hi> himſelf exclaime againſt himſelf, <hi>O me nunquam ſa<g ref="char:EOLhyphen"/>pientem!</hi> our own wiſdome is a weak Reed, which will quickly fail.</p>
+            <p n="5">5. <milestone type="tcpmilestone" unit="unspecified" n="5"/> Be not Cenſorious, ſaith <hi>Job, ch.</hi> 12.5. He that is ready to ſlip with his feet, is as a Lamp deſpiſed in the thought of him that is at eaſe.</p>
+            <p n="6">6. <milestone type="tcpmilestone" unit="unspecified" n="6"/> Beare with the infirmities of the weak, <hi>Rom.</hi> 14.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Receive ſuch (as mothers their ſick, and weak children) into your boſome.</p>
+            <p n="7">7. <milestone type="tcpmilestone" unit="unspecified" n="7"/> It is our beſt wiſdome to flie to the true Ora<g ref="char:EOLhyphen"/>cle for wiſdome; and to pray, <hi>Lord order my ſteps in thy Word,</hi> Pſal. 119.133. and to cry, <hi>Hold up my go<g ref="char:EOLhyphen"/>ings in thy paths, that my footſteps ſlip not,</hi> Pſalme 17.5.</p>
+            <pb n="5" facs="tcp:118966:5"/>
+            <p n="8">8. Adde watchfulneſſe, <hi>Matth.</hi> 26.41.<milestone type="tcpmilestone" unit="unspecified" n="8"/>
+            </p>
+            <p>
+               <hi>Joſiah</hi> is now come to the bloody field,
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 22.</note> the Valley of <hi>Megiddo,</hi> taking its name from a Town, or Caſtle near adjoyning, for the word generally notes a Town, or Caſtle, ſaith <hi>Strigelius. Armageddon</hi> mentioned in <hi>Rev.</hi> 16.16. notes the place of cutting in pieces, or the deſtruction of a Troop, ſaith
+<note n="*" place="margin">In his con<g ref="char:EOLhyphen"/>ſent of Scrip<g ref="char:EOLhyphen"/>ture.</note> 
+               <hi>Broughton;</hi> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as in <hi>Euſebius;</hi> and <hi>Mageddon,</hi> the Mount of <hi>Me<g ref="char:EOLhyphen"/>giddon.</hi> It was a City whoſe King <hi>Joſhua</hi> took, <hi>Joſh.</hi> 12.21. And hence it appears,
+<note place="margin">Tunc tua res agitur—</note> that <hi>Necho</hi> marching beyond his bounds, moved <hi>Joſiah</hi> to counter-march, leſt he ſurprizing the neighbour-Kingdome, he might both over-run, and overthrow his alſo: and in this place he was ſhot, ſaying to his ſervants, <hi>have me a<g ref="char:EOLhyphen"/>way.</hi> He ſhewed himſelf not wounded, but as ſick,
+<note place="margin">
+                  <hi>Verſe</hi> 23.</note> 
+               <hi>ne exterreret exercitum ſuum,</hi> ſaith <hi>Cajetan,</hi> that he might not diſhearten his Army, and of this wound he not long after died, and in this place; for it is ex<g ref="char:EOLhyphen"/>preſſely ſaid, 2 <hi>Kings</hi> 23.29. He was ſlaine there.</p>
+            <p>And although in the four and twentieth verſe, it is ſaid, <hi>He was brought into Jeruſalem, and he died;</hi>
+               <note place="margin">
+                  <hi>Verſe</hi> 24.</note> yet oftentimes the order of the thing done, is not accor<g ref="char:EOLhyphen"/>ding to the order of the Narration. And though he was removed from one Charet to another, yet he came not alive to <hi>Jeruſalem;</hi> for it is expreſſed, 2 <hi>Kings</hi> 23.30. his ſervants carried him in a Charet dead from <hi>Megiddo,</hi> and brought him to <hi>Jeruſalem:</hi> Albe<g ref="char:EOLhyphen"/>it here the word <hi>Jeruſalem</hi> is put before the word <hi>Died.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> If <hi>Joſiah</hi> ſo died; How was <hi>Huldah</hi>'s Prophecy made good, by whom God had ſaid, 2 <hi>Chron.</hi> 34. <hi>Ver.</hi> 28. <hi>Thou ſhalt be gathered to thy fathers in peace?</hi>
+            </p>
+            <pb n="6" facs="tcp:118966:6"/>
+            <p>
+               <hi>Anſw.</hi> 1. He had inward peace in his own ſoul: ſo <hi>Junius.</hi> But this was not all; for ſo he might have had peace, had he been elſewhere than in his own Territories.</p>
+            <p n="2">2. <note place="margin">
+                  <hi>Sic dixit con<g ref="char:EOLhyphen"/>eſtim veluti cedentia ſomno. Lumina dimi ſit, plaeid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que ibi morte quie vit.</hi> Hier. Vida.</note> In reſpect of the peace of his own Kingdome; for the peace is not the proper and private peace of the King; for he died not peaceably as one is ſaid to die of old age, as <hi>Simeon,
+<note n="*" place="margin">
+                     <hi>Ubi tam diù vivunt homi<g ref="char:EOLhyphen"/>nes, ita quod ha<g ref="char:EOLhyphen"/>beant taedium de ſuo vivere.</hi> Where men live ſo long, that it is a tedi<g ref="char:EOLhyphen"/>ouſneſſe to live any longer.</note> Luk.</hi> 2.29. Or as the people in
+<note n="*" place="margin">
+                  <hi>Ubi tam diù vivunt homi<g ref="char:EOLhyphen"/>nes, ita quod ha<g ref="char:EOLhyphen"/>beant taedium de ſuo vivere.</hi> Where men live ſo long, that it is a tedi<g ref="char:EOLhyphen"/>ouſneſſe to live any longer.</note> the <hi>Iſles</hi> of <hi>Arren</hi> in <hi>Ireland,</hi> which will not let the candles of their lives blow out, though they be in the ſnuffe, ſaith a Writer: Nor as one is ſaid to die of a natural diſeaſe, 1 <hi>Kings</hi> 2.6. But it is the publick peace of the Kingdome not diſturbed with Wars wherein <hi>Joſiah</hi> died. Thus a proſperous ſtate is peaceable, 2 <hi>Sam.</hi> 11.7.</p>
+            <p n="3">3. In that he ſhould not be a ſpectatour of the troubles threatned, which ſhould come after his death, <hi>Eſay</hi> 57.1, 2. <hi>He enters into peace, being taken away from the evil to come;</hi> And ſo the nine Patriarchs <hi>before the flood came;</hi> and all the Apo<g ref="char:EOLhyphen"/>ſtles but <hi>John, before the deſtruction of Jeruſalem,</hi> ſaith <hi>Strigelius.</hi>
+            </p>
+            <p n="4">4. In that he ſhould have a quiet Funeral, as ſhould become the ſtate of a Prince. In War dead bodies are tumbled into the grave, 2 <hi>Kings</hi> 13.21. <hi>Jerem.</hi> 34.5. The Prophet ſpeaking of <hi>Zedekiah</hi> who ſhould ſuffer hard things, ſaith thus, <hi>Thou ſhalt die in peace, and with the burnings of thy fathers, the former Kings which were before thee, ſo ſhall they burn odours for thee, and they will lament thee, ſay<g ref="char:EOLhyphen"/>ing, Ah Lord!</hi>
+            </p>
+            <p>Therefore ſaith <hi>Lavater,</hi> I will gather thee in peace; that is, I will not deſtroy thee with others,
+<pb n="7" facs="tcp:118966:6"/>nor lead thee a Captive as others to <hi>Chaldea;</hi> but thy ſoul ſeparated from thy body, ſhall be carried up in<g ref="char:EOLhyphen"/>to <hi>Abrahams</hi> boſome, and thy body ſhall be interred in the Sepulchres of thy Anceſtours; not as the bo<g ref="char:EOLhyphen"/>dies of others to be devoured with birds and beaſts: And as <hi>Sanctius</hi> notes, he is ſaid to be gathered in peace who is buried with Kingly Pomp, and Solemn Mourning, which is not wont to be done in Warre and Tumult.</p>
+            <p n="5">5. In that he ſhould have everlaſting reſt, and glo<g ref="char:EOLhyphen"/>rious peace. So <hi>Deodate,</hi> and others.</p>
+            <p>Thus this diſguiſed Prince is wounded with a <hi>Le<g ref="char:EOLhyphen"/>thalis Arundo,</hi> which fears no Vizzards; wounded, dies; and dead, is brought to the Royal City; and ſo imported, is Honourably inhumed in the Sepulchres of his Royal Predeceſſours, while his Princely Hearſe is embalmed with his Subjects tears.</p>
+            <p>The words are a ſad and full Narrative of an uni<g ref="char:EOLhyphen"/>verſal lamentation for the deceaſe of a Noble and Religious Prince.</p>
+            <p>Wherein you have theſe parts.
+<note place="margin">Diviſion.</note>
+            </p>
+            <p n="1">1. The perſon dead, King <hi>Joſiah.</hi>
+            </p>
+            <p n="2">2. The Mourners, all <hi>Judah</hi> and <hi>Jeruſalem.</hi>
+            </p>
+            <p n="3">3. The Solemn Funeral Act, Mourned. All <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> and <hi>Jeruſalem</hi> mourned for <hi>Joſiah.</hi>
+            </p>
+            <p>
+               <hi>Graecia tum poſſit Priamo quoque flenda videri.</hi>
+               <note place="margin">Ovid.</note>
+            </p>
+            <p>For Explication, we ſhall enlighten only one word.
+<note place="margin">Explicat.</note>
+               <q>MOURNED.</q>
+            </p>
+            <p n="1">1. The Engliſh word Mourned (
+<note n="*" place="margin">Minſhaw.</note> ſay our <hi>Criticks</hi>)
+<pb n="8" facs="tcp:118966:7"/>comes of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>fatale,</hi> fatal, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mors,</hi> death. Or of the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Maar, dolere,</hi> to grieve, be<g ref="char:EOLhyphen"/>cauſe death is the occaſion of ſorrow.</p>
+            <p n="2">2. The Latine word <hi>lugeo,</hi> read in the Text by <hi>Hierom, Montanus</hi> and <hi>Junius</hi> (ſay they) derives it ſelf of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſingultio,</hi> to ſob or ſigh; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſunt tenebrae,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in caligine ſum,</hi> noting the poſture of a Mourner, in grief, and blacks.</p>
+            <p n="3">3. The French read, <hi>Menerent Dueil ſur Joſias.</hi>
+            </p>
+            <p n="4">4. The <hi>Septuagint,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="5">5. The Hebrew word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Mitheabe<g ref="char:EOLhyphen"/>lim.</hi>
+            </p>
+            <p n="1">1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Methe</hi> notes a ſmall number, <hi>Gen.</hi> 34.30. <hi>Deut</hi> 4.27. and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Methim</hi> a greater num<g ref="char:EOLhyphen"/>ber, or mankinde, <hi>Deut.</hi> 3.6. <hi>Job</hi> 19.19. The people generally in City and Countrey did lament.</p>
+            <p n="2">2. <note place="margin">Pagnin.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Abelim</hi> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Abal lugere,</hi> to mourn, <hi>Hoſ.</hi> 10.5. 1 <hi>Sam.</hi> 15.35. And Meta<g ref="char:EOLhyphen"/>phorically noting <hi>deſolari, perire, Eſay</hi> 24.7. to deſolate, languiſh, periſh. <hi>Abels</hi> death was the cauſe of <hi>Adams</hi> mourning. He was the firſt dead man, and the firſt lamented; <hi>Adam</hi> was the chief Mourner: Funeral Mourning is as Ancient as death it ſelf. And ſome obſerve that the names of the three ſonnes of <hi>Adam</hi> were all myſterious.</p>
+            <p n="1">1. <hi>Cain,</hi> A poſſeſſion, the type of the firſt Crea<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. <note n="*" place="margin">Some derive the word of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Hebel, canitas,</hi> A thing which ſoon ſades, as the breath which goes out of the mouth.</note> 
+               <hi>Abel,</hi> Vanity, the type of the world ſince the fall.</p>
+            <p n="3">3. <hi>Seth,</hi> A replantation, or replacing of a new Creation by Jeſus Chriſt. The truth is, that <hi>A<g ref="char:EOLhyphen"/>dam</hi> could not but lament <hi>Abels</hi> death, and vaniſh<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:118966:7"/>condition very much; and is ſaid by <hi>Stravus</hi> to grieve ſo much, that <hi>Adam</hi> vowed continency, till warned by God, he did relinquiſh his vow. And <hi>Peter Comeſtor</hi> affirms he mourned about an hundred years, becauſe the <hi>Septuagint, Methodius</hi> and <hi>Joſe<g ref="char:EOLhyphen"/>phus</hi> write, that <hi>Adam</hi> was two hundred and thirty years old when he begate <hi>Seth, Abels</hi> Succeſſour.</p>
+            <p>And therefore this <hi>Abel</hi> who was the cauſe of ſo much Mourning, may ſeem a ſignificant expreſſion to ſet forth this extraordinary grief in the Text for the loſſe of an extraordinary Prince, the lamenting of whom is put for the higheſt Preſident Mourning, <hi>Zech.</hi> 12.11. <hi>Acts</hi> 2.37.</p>
+            <p n="6">6. The Arabick renders the Text thus, <hi>All the people of Judah, and Citizens of Jeruſalem were ſad<g ref="char:EOLhyphen"/>ned with vehement grief for King Joſiah.</hi>
+            </p>
+            <milestone type="tcpmilestone" unit="Doctrine."/>
+            <p>— Whence obſerve,</p>
+            <p>That the deaths of publick perſons,
+are to be attended with the publick lamentations of the people.</p>
+            <p>Numb. 20.19.
+<note place="margin">Proof.</note> 
+               <hi>All the Congregation mourned for dead Aaron thirty dayes, even all the houſe of Iſrael.</hi> Deut. 34.8. <hi>The children of Iſrael wept for Moſes when he died, thirty days.</hi> 1 Sam. 25.1. When <hi>Samuel</hi> died, <hi>all the Iſraelites were gathered together, and lamented him, and buried him in his houſe at Ramah.</hi> Acts 8.2. <hi>Devout men carried Stephen to his burial, and made great lamen<g ref="char:EOLhyphen"/>tation over him.</hi> Holy men ſaith <hi>Beza,</hi>
+               <note place="margin">Invocat autem nem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> lamented dead <hi>Stephen,</hi> and buried him with a ſingular example of charity and faith, but no man prayed.</p>
+            <p>
+               <hi>Gen.</hi> 50.3. <hi>The Egyptians lamented Jacob ſeven<g ref="char:EOLhyphen"/>ty dayes; and Joſeph with his brethren and fathers houſe accompanied with Charets and Horſe-men, a very great company, mourned with a great, and very ſore
+<pb n="10" facs="tcp:118966:8"/>lamentation, ſeven dayes,</hi> Ver. 8.9, 10.</p>
+            <p>2 Sam. 3.31, 32. <hi>David ſaid to Joab, and all the people that were with him, Rent your cloaths, and gird you with ſack-cloth, and mourn before Abner: And King David himſelf followed the Biere. And they buried Abner in Hebron, and the King lift up his voice, and wept at the grave of Abner, and</hi> All the People wept.</p>
+            <p>2 Sam. 1.17, 24. <hi>David lamented with this la<g ref="char:EOLhyphen"/>mentation over Saul, and Jonathan his ſonne, ſaying, Ye daughters of Iſrael, weep over Saul who clothed you in ſcarlet with other delights, who put on ornaments of gold upon your apparrel.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">L. 1. <hi>de gen<g ref="char:EOLhyphen"/>tium moribus, c.</hi> 5. <hi>de Aegyptic<g ref="char:EOLhyphen"/>rum ritu.</hi>
+               </note> 
+               <hi>Joannes Boemus</hi> of the Egyptian Rites, thus ſpeaks, they <hi>bewail the death of a beloved King ſe<g ref="char:EOLhyphen"/>venty two dayes,</hi> renting their garments, abſtaining from the Market, Feaſts and Wives; caſting dirt on their heads, having two or three hundred men and women walking about, and twice a day renewing their grief, in a ſong renumerating the vertue of the King, grieving all thoſe dayes as for the death of a ſonne: and upon the laſt day incloſing the Corps in a Coffin, did place it at the entrance of the Sepulchre, where the multitude did applaud his worthy actions.</p>
+            <p>And in
+<note n="*" place="margin">
+                  <hi>Theb. l.</hi> 6.</note> 
+               <hi>Statius, Pampinius</hi> deſcribes the funeral fire wherein the body of <hi>Archemorus</hi> was conſu<g ref="char:EOLhyphen"/>med with gold, ſilver, gems, and much Artillery at<g ref="char:EOLhyphen"/>tending.</p>
+            <lg>
+               <l>
+                  <hi>Tunc ſeptem numero Turmas (centenus ubique</hi>
+               </l>
+               <l>
+                  <hi>Surgit eques) verſis ducunt Inſignibus ipſi</hi>
+               </l>
+               <pb n="11" facs="tcp:118966:8"/>
+               <l>
+                  <hi>Grajugenae Reges, Luſtrantque ex more ſiniſtro</hi>
+               </l>
+               <l>
+                  <hi>Orbe Rogum, &amp; ſtantes inclinant pulvere flammas;</hi>
+               </l>
+               <l>
+                  <hi>Ter curvos egere ſinus, illiſaque telis</hi>
+               </l>
+               <l>
+                  <hi>Tela ſon ant; quater horrendum pepulere fragorem</hi>
+               </l>
+               <l>
+                  <hi>Arma, quater mollem famularum brachia planctum.</hi>
+               </l>
+            </lg>
+            <p>And
+<note n="*" place="margin">
+                  <hi>Aeneid</hi> 11.</note> 
+               <hi>Virgil</hi> brings in <hi>Aeneas</hi> and his company deploring the death of <hi>Pallas</hi> thus,
+<q>
+                  <l>
+                     <hi>Spargitur &amp; tellus lachrymis, ſparguntur &amp; Arma,</hi>
+                  </l>
+                  <l>
+                     <hi>It caelo clamorque virum, clangorque tubarum.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>The very light of nature taught this; and there<g ref="char:EOLhyphen"/>fore Funerals were called <hi>Juſta,</hi> Rites. <hi>Naturâ in<g ref="char:EOLhyphen"/>ſitum eſt,</hi> (ſaith one) <hi>non enim trunci ſumus, aut lapides.</hi> The live Piſmires bury the dead ones, <hi>magnâ in ſuam ſpeciem charitate,</hi> ſaith <hi>Textor,</hi> with a great deal of charity ſhewn to their own kinde; and ſo the <hi>Storkes;</hi> and Mr. <hi>Sandy</hi>'s in his Travels re<g ref="char:EOLhyphen"/>lates of the Virginians, that, having covered the Corps with duſt, beſmut their faces with coal and oyle, and howle at the grave twenty four houres.</p>
+            <p>
+               <hi>Abraham</hi> bewails <hi>Sarah</hi>'s death; <hi>Jacob, Rachels; Chriſt, Lazarus;</hi> and <hi>a great company of people and women bewailed and lamented Jeſus Chriſt,</hi> Luk. 23.27.</p>
+            <milestone type="tcpmilestone" unit="Reasons."/>
+            <p>The reaſons of the doctrine we ſhall draw from a three fold ſpring, and all in the Text.</p>
+            <p n="1">1. From the perſon dead.</p>
+            <p n="2">2. The Mourners.</p>
+            <p n="3">3. The act of Mourning.</p>
+            <pb n="12" facs="tcp:118966:9"/>
+            <milestone type="tcpmilestone" n="1" unit="Reason"/>
+            <p n="1">1. Taken from the perſon deceaſed.</p>
+            <p n="1">1. A King, a publick perſon, <hi>Joſiah.</hi>
+            </p>
+            <p n="2">2. His Excellency and Worth. And,</p>
+            <p n="3">3. The manner of his death.</p>
+            <p n="1">1. A King, a publick perſon.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The chief Magiſtrate, one exalted above others by the head and ſhoulders, a Vice-god. <hi>Mo<g ref="char:EOLhyphen"/>ſes had Gods Name lent him,</hi> Exod. 4.16. cap. 7.1. a god <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Politicus.</note> non <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not ſubſtantially, but by way of appellation. A King is the living Image of God; he is as the Sunne amongſt the planets the <hi>Coryphaeus</hi> ſaith <hi>Keckerman.</hi> Him who imita<g ref="char:EOLhyphen"/>teth the wiſe man, we call King, ſaith <hi>Plato;</hi> ſaith <hi>Seneca,</hi> what is an imprudent King, but a <hi>Marmoſet</hi> on the houſe top? The head of <hi>Caligula</hi> was ill ſet on <hi>Jupiters</hi> body: The wiſeſt we call King, hence King <hi>Quaſi Kunning. Now when the chief ſhall fail, it muſt cauſe ſinking, it is as when a ſtandard<g ref="char:EOLhyphen"/>bearer fainteth,</hi> Eſay 10.18. When the Sunne is either eclipſed or ſet, or knock't out of its orbe, there muſt needs be horrible darkneſſe. <hi>The people prized David worth ten thouſand of them,</hi> unwilling that he ſhould jeopardize his life, 2 <hi>Sam.</hi> 18.3. <hi>U<g ref="char:EOLhyphen"/>nus mihi Cato pro centum millibus:</hi> This ſtruck deep on <hi>Davids</hi> heart, when he bewailed <hi>Abner,</hi> 2 Sam. 3.38. ſaying to his ſervants, <hi>Know ye not that there is a Prince and a great man fallen in Iſrael?</hi> There was ſo much publick grief in the death of <hi>Ti<g ref="char:EOLhyphen"/>tus Veſpaſian,</hi> that all grieved, as if every one had loſt a ſonne: And the people ſaid of <hi>Octavian, would he had either not been borne, or never died.</hi> A King is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the peoples <hi>Baſis:</hi> Among the eight kinde of foundations ſaid
+<note n="*" place="margin">
+                  <hi>Novemb.</hi> 5. 1608. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Pſal.</hi> 11.2, 3, 4. <hi>p</hi> 30.</note> the King of Prea<g ref="char:EOLhyphen"/>chers
+<pb n="13" facs="tcp:118966:9"/>before King <hi>James,</hi> this was one, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vices,</hi> ſucceſſi ons, ſupplies. Father and ſon, <hi>res et ſpes,</hi> muſt drink of the deadly cup of deſolation. Now if the foundation be deſtroyed, what hath the righteous done? or what ſhall the righteous do?</p>
+            <p n="2">2. His worth and excellency.</p>
+            <p n="1">1. In his equity and juſtice.</p>
+            <p n="1">1. <hi>He did right in the ſight of God.</hi>
+            </p>
+            <p n="2">2. <hi>Followed the example of David his father,</hi> 2 Chr. 34.2.</p>
+            <p n="2">2. Religion.</p>
+            <p n="1">1. In his diligent ſeeking after God betimes, when he was young; as in <hi>ver.</hi> 3.</p>
+            <p n="2">2. In deſtroying of Idolatry, <hi>ver.</hi> 4. foretold, 1 <hi>Kings</hi> 13.2.</p>
+            <p n="3">3. Repairing of the Temple, <hi>ver.</hi> 8.</p>
+            <p n="4">4. A tender heart, trembling at Gods Word; <hi>ver.</hi> 27.</p>
+            <p n="5">5. Renewing the Covenant, <hi>ver.</hi> 30, 31.</p>
+            <p n="6">6. Solemn and unexampled Paſſeover, <hi>chap.</hi> 35.18.</p>
+            <p n="3">3. Bounty, kindneſſes and goodneſſe, <hi>ver.</hi> 26.</p>
+            <p n="4">4. Valour and undanted courage, though he fai<g ref="char:EOLhyphen"/>led in the laſt act, by an act of raſhneſſe.</p>
+            <p n="3">3. The manner of death. The Shepherd being ſmitten, the ſheep are ſuddenly ſcattered; as in <hi>Goli<g ref="char:EOLhyphen"/>ah,</hi> 1 Sam. 17.51. and <hi>Abimelech,</hi> Judges 9.55. The ſudden death of <hi>Eli</hi> and <hi>Phineas</hi> aſhoniſhed his wife, that ſhe travailed, and died, 1 <hi>Sam.</hi> 4.19.
+<note place="margin">Nil ſubitum eſt ſem<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> migrare par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tis, &amp; juſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſi <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>orte pra<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>patus <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Refri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ris crit.</note> And though it be true that nothing is ſudden to them who are alwayes prepared to die; and that if a juſt man be ſurprized by death, he ſhall be in heaven; yet in re<g ref="char:EOLhyphen"/>ſpect of Outwards, and Relations, an unexpected blow brings more than ordinary diſtraction, and it
+<pb n="14" facs="tcp:118966:10"/>leaves a very ſad character of Gods diſpleaſure; when men as birds and fiſhes are caught in the ſnare, and taken in the net, <hi>Eccleſ.</hi> 9.12, 13. When the firſt<g ref="char:EOLhyphen"/>born were ſuddenly ſlain, <hi>there was a great cry,</hi> Exod. 12.29, 30.</p>
+            <q>
+               <l>Quis cladem illius noctis,
+<note place="margin">Virgil. Aeneid. 2.</note> quis funera fand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Explicet, aut poſſit lachrymis aequare dolores?</l>
+            </q>
+            <milestone type="tcpmilestone" n="2" unit="Reason"/>
+            <p n="2">2.Taken from the Mourners themſelves.</p>
+            <p n="1">1. The ſins of ſubjects haſten their Princes deaths, 1 <hi>Sam.</hi> 12. <hi>ult.</hi> and eſpecially,</p>
+            <p n="1">1. Idolatry.</p>
+            <p n="2">2. Diſobedience to the Word, and Diſperſers of it.</p>
+            <p n="2">2. The peoples loſſe, and this will appear by what chief Magiſtrates are repreſented in Scripture.</p>
+            <p n="1">1. <hi>Captains to lead,</hi> 1 Sam. 9.16.</p>
+            <p n="2">2. <note place="margin">Sir <hi>John Hey<g ref="char:EOLhyphen"/>ward</hi> in the reign of King <hi>Edward</hi> the ſixth.</note> 
+               <hi>Shields,</hi> Pſal. 47.9. Hoſ. 4.18. As the Protectour and Admiral were call'd King <hi>Edwards</hi> Shield and Target.</p>
+            <p n="3">3. <hi>Heads,</hi> Num. 25.15. Judg. 11.8, 9, 11.</p>
+            <p n="4">4. <hi>Heirs of Reſtreint,</hi> Judges 18.7. And <hi>Sauls</hi> Reigning, 1 <hi>Sam.</hi> 9.17. is called reſtreining, <hi>Heb.</hi> When theſe curbs and bits are gone, horſes turn wilde. People are ſons of <hi>Belial</hi> without a yoke; when theſe Sea banks are broken down, <hi>Libertiniſme</hi> will break in as a mighty torrent.</p>
+            <p n="5">5 <hi>Breath of the peoples noſtrils,</hi> Lam. 4.20. <hi>Zedekiah</hi> being in priſon, as <hi>Calvin</hi> notes, his peo<g ref="char:EOLhyphen"/>ples breath is ſtopt: Motions ceaſe, when there is a ſuffocation.</p>
+            <pb n="15" facs="tcp:118966:10"/>
+            <p n="6">6. <hi>Healers,</hi> Eſay 3.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Choſbeſch,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Cho<g ref="char:EOLhyphen"/>beſch</hi> of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Chabaſch</hi> to tie and gird faſt.</note> tying as a Chyrurgion and Phyſician, a Ruler, Iob 34.17. Becauſe Princes bind their Subjects by their Lawes. Patients dye, when Phyſicians give them over. The good Samaritane did cure, when the traveller was wounded, <hi>Luke</hi> 10.34.</p>
+            <p n="7">7. <hi>Shepherds. Cyrus my Shepherd,</hi> Eſay 44 28. <hi>David</hi> from a Shepherd of ſheep, came to be a She<g ref="char:EOLhyphen"/>pherd of men, <hi>Pſal.</hi> 78.72. <hi>Homer</hi> calls <hi>Agamem<g ref="char:EOLhyphen"/>non,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the King doth rule by feeding, <hi>Matth.</hi> 2.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Now Chriſt ſpeaking of his death, and the diſperſion of his Diſciples, ſaid, <hi>Smite the Shepherd, and the ſheep will be ſcattered;</hi>
+               <note place="margin">Incuſtoditae di<g ref="char:EOLhyphen"/>ripiuntur oves,</note> which ſentence is thrice ſpoken of in Scripture, <hi>Zech.</hi> 13.7. <hi>Matth.</hi> 26.31. <hi>Mark</hi> 14.27. After <hi>Pauls</hi> departing, <hi>grievous wolves would enter, not ſparing the flock,</hi> Acts 20.19.</p>
+            <p n="8">8. <hi>Fathers. Agaſicles</hi> King of the <hi>Spartans</hi> had this Apothegme, <hi>That there is no more firme ground of eſtabliſhment, than when a King doth govern his ſubjects as a father his children;</hi> and ſaith <hi>La<g ref="char:EOLhyphen"/>vater, Princes are good parents; and if fathers die, children ſhould conſider the benefits they have enjoy<g ref="char:EOLhyphen"/>ed, and the many hardſhips and pains their parents have ſuſtained for them.</hi> Wicked <hi>Ioaſh</hi> weeping over dying <hi>Eliſha,</hi> call'd him, <hi>O my father, my fa<g ref="char:EOLhyphen"/>ther, the Charet of Iſrael, and the Horſe-men thereof.</hi> Yea, they are not only fathers, but <hi>nurſing fathers,</hi> Num. 11.12. Eſay 49.23.</p>
+            <p n="9">9. <hi>Corner</hi>-ſtayes which binde the main building. If theſe are blown down, the houſe it ſelf will not ſtay long after, <hi>Eſay</hi> 19.13.</p>
+            <p n="10">10. <hi>Builders,</hi> Pſal. 127.1.</p>
+            <pb n="16" facs="tcp:118966:11"/>
+            <p n="11">11. <hi>Watchmen,</hi> ibid.</p>
+            <p n="12">12. <hi>Eyes,</hi> Job 29.15. An eye with a Sce<g ref="char:EOLhyphen"/>pter was the Egyptian Hieroglyphick of a Princes Vigilance and Rule. <hi>If the eye be out, or dark, how great is that darkneſse?</hi> Matth. 6.23. Such a Land is a meer <hi>Polyphemus</hi> blinded.</p>
+            <p n="13">13. <hi>Saviours,</hi> Obad. ver. 21. to which may be added three more.</p>
+            <p n="14">14. <hi>Steerſ-men.</hi> A Prince
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Polit.</note> ſaith <hi>Plato,</hi> is as a <hi>Ship<g ref="char:EOLhyphen"/>maſter,</hi> who alwayes takes care both of the Ship and Sea-men.</p>
+            <p n="15">15. <hi>Pilots</hi> to conduct ſafe in the midſt of Shelves, Rocks, Enemies and Tempeſts.</p>
+            <p n="16">16. <hi>Husbands,</hi> a good Prince is <hi>maritus populi.</hi> Now if it be an Art of Arts, and Diſcipline of Diſciplines to rule men, as
+<note n="*" place="margin">Ars Artium, &amp; Diſciplina Diſciplinarum regere hominem.</note> 
+               <hi>Nazianzen</hi> ſpeaks; then to loſe ſuch a Ruler, is a loſſe of loſſes not eaſily expreſſed or repai<g ref="char:EOLhyphen"/>red.</p>
+            <p n="3">3. The peoples miſeries; an inundation of ca<g ref="char:EOLhyphen"/>lamities came tumbling in on <hi>Joſiah</hi>'s death; <hi>Jehoahaz</hi> his eldeſt ſonne was quickly depoſed, and the Land fined, 2 <hi>Chron.</hi> 36.3. <hi>Iehoiakim</hi> his ſecond ſon was fetter'd, <hi>ver.</hi> 5. The Temple was ranſackt, and the Veſſels were carried away, <hi>ver.</hi> 7. and <hi>Zedekiah</hi> his third ſon was impriſoned and blinded. <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi> and the King of the Chaldees cruſhed all; ſome were killed, others taken priſoners; Temple, City, Palaces and all the goodly Veſſels were deſtroyed, and the people were carried into captivity, and re<g ref="char:EOLhyphen"/>mained in <hi>Babylon</hi> ſeventy years. The death of a Prince ſaith <hi>Charles</hi> the fifth, is as the Suns Eclipſe, which uſually portends commotions and perturbations of State ſome time after; and this made Chriſt turn
+<pb n="17" facs="tcp:118966:11"/>himſelf and ſpeech to the daughters of <hi>Ieruſalem not to weep for him, but for themſelves and children:</hi> foreſeeing a terrible ſtorme coming on the State af<g ref="char:EOLhyphen"/>ter his deceaſe, <hi>Luke.</hi> 23.27, 28. — ſaith the Prophet <hi>Ieremy, chap.</hi> 50.17. <hi>the Paſtor being away, Iſrael is a ſcattered ſheep, the Lyons have driven him away:</hi> Firſt, the King of <hi>Aſsyria</hi> hath devoured him; and laſt, this <hi>Nebuchadnezzar</hi> King of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> hath broken his bones.</p>
+            <milestone type="tcpmilestone" n="3" unit="Reason"/>
+            <p n="3">3. Taken from the Act of Mourning.</p>
+            <p n="1">1. It teſtifies love, <hi>John</hi> 11.35, 36. Jeſus wept at the death of <hi>Lazarus,</hi> then ſaid the Jews, <hi>behold how he loved him!</hi>
+            </p>
+            <p n="2">2. Its reſtrictive of envy, reproach and ſlander, <hi>John</hi> 11.21, 36. The people beholding the ſad Tragedy of Chriſts death, in all its Acts, <hi>ſmote their breaſts,</hi> Luke 23.48.
+<note n="*" place="margin">Gratia major eſt cùm homini<g ref="char:EOLhyphen"/>bus tanta reve<g ref="char:EOLhyphen"/>rentia incuti<g ref="char:EOLhyphen"/>tur, ut agnitis criminibus, Chriſtum jam colunt quem bactenus irriſe<g ref="char:EOLhyphen"/>runt.</note> The grace is greater, and more remarkable, when ſo much reverence is ſtruck in men, that acknowledging their ſins, they now love Chriſt, whom before they ſcorned, ſaith <hi>Are<g ref="char:EOLhyphen"/>tius;</hi> and indeed the dead move more compaſſion, than when they have been living. <hi>Lycurgus</hi> the great Law-giver more prevailed with the Lacedemo<g ref="char:EOLhyphen"/>nians when he was dead, than when he was alive: <hi>Julius Caeſar</hi> wept at the ſight of dead <hi>Alexander:</hi> and living <hi>Alexander</hi> ſtartled at the Tombe of <hi>Cyrus:</hi> The Deeds and Trophies of <hi>Miltiades</hi> did affect <hi>Themiſtocles;</hi> and of <hi>Hercules, Theſeus:</hi> and <hi>Stephen Gardiner</hi> Biſhop of <hi>Wincheſter,</hi> when he had chop't off the head of <hi>Thomas</hi> Lord <hi>Cromwel</hi> Earle of <hi>Eſsex</hi> by his own Engine, (ſaith <hi>Speed</hi>) yet when he was dead, ſeeing the general Mourning, did wiſh (when it was too late) that <hi>Cromwel</hi> were alive a<g ref="char:EOLhyphen"/>gain.
+<pb n="18" facs="tcp:118966:12"/>Even ſuch praiſe the dead which are already dead, <hi>in the ſpeech of the Royal Preacher,</hi> Eccleſ. 4.2.</p>
+            <p n="3">3. It is impulſive, inducing others to ſympathize and condole, <hi>John</hi> 11.16.33. <hi>Si vis me flere do<g ref="char:EOLhyphen"/>lendum</hi> —; tears of friends draw on the tears of ene<g ref="char:EOLhyphen"/>mies and neuters, <hi>Gen.</hi> 50.3, 11. The Egyptians mourned for <hi>Jacob,</hi> and the name of the place was cal<g ref="char:EOLhyphen"/>led <hi>ABEL MIZRAIM,</hi> the mourning of the Egyptians. <hi>Even the daughters of the Nations ſhall lament,</hi> Ezek. 32.16. The wicked Prophet mourned over the man of God ſlain by a Lyon, 1 <hi>King.</hi> 13.29.</p>
+            <milestone type="tcpmilestone" unit="Uses."/>
+            <p n="1">1. Uſe is of Information.</p>
+            <p n="1">1. <note place="margin">1. <hi>Uſe.</hi>
+               </note> Learn the Antiquity of Funerals; though the Rule of <hi>Auguſtine</hi> muſt be often minded, name<g ref="char:EOLhyphen"/>ly
+<note n="*" place="margin">
+                  <hi>Curatio Fune<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, conditio ſe<g ref="char:EOLhyphen"/>pulturae, Pompa exequiarum ma<g ref="char:EOLhyphen"/>gis ſunt vivo<g ref="char:EOLhyphen"/>rum ſalatia, quam ſubſidia mortuorum. l</hi> 2. <hi>de curâ pro mortuis.</hi>
+               </note> the over-ſeeing of the Funeral, the nature of the Burial, and the Pomps of Exequies, are rather the comforts of the living, than the ſubſidies and ſuc<g ref="char:EOLhyphen"/>cours of the dead.</p>
+            <p n="2">2. It is a bleſſing for Princes and others, to dye lamented, and to have (as we ſay) Chriſtian Buri<g ref="char:EOLhyphen"/>al; as 1 <hi>Kings</hi> 14.13. <hi>Jer.</hi> 34.4, 5. but other<g ref="char:EOLhyphen"/>wiſe a curſe, <hi>Eſay</hi> 14.18, 19, 20. <hi>Jer.</hi> 16.6. <hi>chap.</hi> 25.23. <hi>Ezek.</hi> 23.13. ſeen in <hi>Jehoiakim</hi> the ſecond ſon of this <hi>Joſiah, Jer.</hi> 22 18, 19. <hi>They ſhall not lament for him, ſaying, Ah my brother, or ah ſiſter: they ſhall not lament for him, ſaying, ah Lord, or ah his glory. He ſhall be buried with the burial of an Aſſe, drawn and caſt forth beyend the gates of Jeruſalem.</hi>
+               <q>Hunc nemo lachrymis decorat, neque funera fletu.</q>
+            </p>
+            <p n="3">3. The ſpecial honour done to <hi>Joſiah</hi> at his inhumation. <hi>Marcellus</hi> had ſix hundred Herſes, and <hi>Sylla</hi> ſix thouſand Herſes to attend his Herſe; and the Ethiopians when their King was dead, would
+<pb n="19" facs="tcp:118966:12"/>deprive themſelves of life, as a glorious teſtimony of their love and friendſhip. And all <hi>Judah</hi> and <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> ſeem to be but one common Herſe to honour the Herſe of their Noble and Religious Prince.</p>
+            <p>
+               <hi>See the Honour done to him.</hi>
+            </p>
+            <p n="1">1. He was buried in <hi>Mauſolaeo,</hi> as reads <hi>Hierom,</hi> the burning place of Kings, taken from that great and regal ſtructure Queen <hi>Artemiſia</hi> built for <hi>Mauſo<g ref="char:EOLhyphen"/>lus</hi> her husband King of <hi>Caria,</hi> which was accounted one of the ſeven wonders of the world. He was bu<g ref="char:EOLhyphen"/>ried in one of the Sepulchres; <hi>Notat ſumptuoſiſimum, &amp; pulcherrimum,</hi> ſaith <hi>Vatablus,</hi> a moſt ſumptuous and fair Tombe.</p>
+            <p n="2">2. <hi>By the Mourners.</hi>
+            </p>
+            <p n="1">1. In General. <hi>All the Inhabitants of Judah and Jeruſalem;</hi> all his ſubjects paid their laſt and unenforced tribute, even that of tears.</p>
+            <p n="2">2. In eſpecial.</p>
+            <p n="1">1. <hi>Jeremiah</hi> is recorded to be the chief Mourner. For he,</p>
+            <p n="1">1. Compoſed the Funeral Verſes, which were not his Threnod, or Lamentations bound up in your Bi<g ref="char:EOLhyphen"/>bles next to <hi>Jeremiahs</hi> Propheſie, as <hi>Jonathan, Joſe<g ref="char:EOLhyphen"/>phus, Hugo, Abubenſis. Lyra,</hi> the Hebrews, and others do imagine: for <hi>Calvin,</hi> and <hi>Cornelius à Lapide</hi> un<g ref="char:EOLhyphen"/>derſtand it of <hi>Zedekiah Joſiahs</hi> third ſonne, who was impriſoned, and in whoſe dayes the greateſt part of the threatned ſtorme and deſolation fell.</p>
+            <p n="2">2. He foreſaw that the Guardian of Religion, and
+<pb n="20" facs="tcp:118966:13"/>Diſcipline being removed, moſt ſad confuſions of o<g ref="char:EOLhyphen"/>pinions, manners, and worſhip would enſue.</p>
+            <p n="3">3. With great grief of heart had he experience of the diſſimilitude between the father and children; and as <hi>Joſiah</hi> had eighteen years cheriſhed him as his Patron (yea as his Father) yet his degenerated ſonnes ſported at the good Prophets troubles; ſo <hi>Strigelius.</hi>
+            </p>
+            <p n="2">2. The Chorus, which was to carry on the Solem<g ref="char:EOLhyphen"/>nity; and the Jewes were ſo skill'd in lamentations, that the Greeks do hire them to crie at their Funerals, ſaith
+<note n="*" place="margin">— <hi>plorat Uberibus ſemper lachrymu, ſem<g ref="char:EOLhyphen"/>perque paratis In ſtatione ſuâ, atque expectan<g ref="char:EOLhyphen"/>tibus illam Quo jubeat ma<g ref="char:EOLhyphen"/>nere modo.</hi>— Juvenal. Satyr. 6.</note> 
+               <hi>Juvenal.</hi>
+            </p>
+            <p n="3">3. The Chronicle of all his deeds. <hi>In perpetuam rei memoriam:</hi> Thus they who honour God, them will God both in life and death honour.</p>
+            <milestone type="tcpmilestone" n="2" unit="Use"/>
+            <p n="2">2. Uſe is of Reproof, condemning,</p>
+            <p n="1">1. Such who are ſenſeleſſe, as when King <hi>Uzziah</hi> died, the people were dull, <hi>Iſa,</hi> 6.1, 10.— <hi>They have ſtricken me ſhalt thou ſay, and I was not ſick; they have beaten me, and I felt I knew it not, Prov.</hi> 23.35. <hi>Evil men underſtand not judgment,</hi> Prov. 28.5. Iſa. 57.1.</p>
+            <p n="2">2. Such who triumph at the death of godly Prin<g ref="char:EOLhyphen"/>ces. It is obſerved by the Hiſtorian, That none re<g ref="char:EOLhyphen"/>joyced at the death of <hi>Hannibal</hi> but Rogues; even that <hi>Hannibal</hi> who was an inſtructed enemy againſt <hi>Rome</hi> from nine years old, inſomuch that when he was Adult, <hi>Hannibal ad Portas,</hi> put all the Inhabitants to an afright, as <hi>Senacherib</hi> throwing his fire-balls. <hi>The ſinners in Sion were afraid, ſaying, who among us ſhall dwell with the devouring fire? Who among us ſhall dwell with everlaſting burning? Iſa.</hi> 33.14.
+<pb n="21" facs="tcp:118966:13"/>The truth is, Though our <hi>Oliver</hi> of ſpreading Fame did bear the Olive of Peace in his Name, yet his heart and actions were at warre with <hi>Rome;</hi> and no marvel then that Papiſts, as the daughters of the Philiſtins, and uncircumciſed at the death of <hi>Saul</hi> and <hi>Jonathan,</hi> do ſo much triumph, 2 <hi>Sam.</hi> 1.20. Many laughed, ſaith <hi>Levater,</hi> (on my Text) not lamented, as we may col<g ref="char:EOLhyphen"/>lect from <hi>Jeremiah,</hi> and <hi>Zephaniah,</hi> becauſe they ho<g ref="char:EOLhyphen"/>ped Idolatry would be reſtored.</p>
+            <p>There be three ſorts who now rejoyce.</p>
+            <p n="1">1. Malignants. And</p>
+            <p n="2">2. Debauched perſons, as Panders, Trepanners, Hectors, Fidlers, and the ſcum of the people. And</p>
+            <p n="3">3. Deſpiſers of Dignities,</p>
+            <p>Becauſe the ſword did hew the firſt.</p>
+            <p>His Lawes did ſcourge the ſecond; And</p>
+            <p>His clemency did unboot the third.</p>
+            <p>And it is but the truth of the Prediction of our de<g ref="char:EOLhyphen"/>parting Lord and Maſter, <hi>Joh.</hi> 16.20. <hi>Ye ſhall weep, and lament, but the world ſhall rejoyce; ye ſhall be ſorrow<g ref="char:EOLhyphen"/>full, but your ſorrow ſhall be turned into joy,</hi> at the Maſculine birth of a travelling womb the Scene ſhall be changed, <hi>Iſa.</hi> 65.13, 14.</p>
+            <p n="3">3. Such who erre in mourning.</p>
+            <p>Firſt, In Defect</p>
+            <p n="1">1. Who mourn hypocritically, as <hi>Herod</hi> for <hi>John,</hi> and <hi>Iſhmael Gedaliah,</hi> Jerem. 41.6. For often in Fune<g ref="char:EOLhyphen"/>rals ſaith <hi>Lavater,</hi> many diſſemble ſorrow.</p>
+            <q>Ille Dolet verè, Qui ſine veſte Dolet.</q>
+            <p>It is ſtoried of the late King <hi>Charles,</hi>
+               <note place="margin">
+                  <hi>Eſquire</hi> Saun<g ref="char:EOLhyphen"/>derſons <hi>Chro<g ref="char:EOLhyphen"/>nicle.</hi>
+               </note> contrary to former Preſidents, that he in perſon attended the
+<pb n="22" facs="tcp:118966:14"/>Herſe of his father, as the chiefeſt mourner. But the nakedneſſe of his fathers grave puts the queſtion, Whether that action (in it ſelf imitable, and commen<g ref="char:EOLhyphen"/>dable) were not a a piece of Court-policy to ſtill the ſhrill clamour about his fathers death, rather than a teſtimony either of the truth, or exceſſe of his own love, or ſorrow.</p>
+            <p n="2">2. Who mourn cuſtomarily, as the daughters of <hi>Iſrael</hi> the Receſſe of <hi>Iephthah</hi>'s daughter, <hi>Iudges</hi> 11.39. and
+<note n="*" place="margin">— <hi>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>los erudicre ſuos.</hi>
+               </note> the mourning women, who ſchoole their eyes a lamentation. Theſe Chriſt diſmiſſed, <hi>Matthew</hi> 9.23.24.
+<note n="*" place="margin">
+                  <hi>Martyroleg lom.</hi> 1 <hi>pag</hi> 493.</note> A Text Maſter <hi>Thorpe</hi> a godly Miniſter and Martyr did uſe againſt <hi>Arundel</hi> Arch-biſhop of <hi>Canterbury</hi> in the Reigne of <hi>Henry</hi> the fourth, to over<g ref="char:EOLhyphen"/>throw Organs, and Church-muſick. Many lay no more to heart the death of publick perſons, than chil<g ref="char:EOLhyphen"/>dren the death of a father, or mother, if they can have comfits, though they quickly feele to their re<g ref="char:EOLhyphen"/>all grief afterwards, that they had ſuch a father, and ſuch a mother.</p>
+            <p n="3">3. Who mourn profanely, carowſing, ſwearing, and as it were dancing about the dead mans grave. Said <hi>Eſau</hi> in his heart, <hi>The days of mourning for my father are at hand, then will I ſlay my brother Iacob,</hi> Gen. 27.41. King <hi>Marres</hi> was ſo profane, that he bewailes his Crow, ſaith <hi>Aelian;</hi> the Lady her Dogge, ſaith <hi>Mar<g ref="char:EOLhyphen"/>tial,</hi> and <hi>Craſsus</hi> his Lamprey no leſſe than a ſonne, and built a Sepulchre, ſaith <hi>Sandys.</hi> Some there be ſo wicked, as to lament the death of beaſts, fiſh, and fowle, more than they would the death of the beſt, and moſt uſeful Chriſtians.</p>
+            <p>Such was the ridiculous profaneſſe of the Ma<g ref="char:EOLhyphen"/>gaveres, that at the burial of the dead, they wrapped
+<pb n="23" facs="tcp:118966:14"/>the dead body in Holly twigs, binding the neck and legs together, putting it into a hole, covering it with ſtones, and ſetting on the heap ſome ridiculous thing or other, and ſo without any more ado departed.</p>
+            <p>Secondly, In exceſſe.</p>
+            <p n="1">1. Who mourn immoderately: <hi>Jacob</hi> ſurmiſing his ſonne <hi>Ioſeph</hi> to be rent in pieces, rent his cloathes, and put ſackcloth on his loynes, and mourned for his ſonne many dayes: and all his ſons, and all his daugh<g ref="char:EOLhyphen"/>ters roſe up to comfort him: but he refuſed to be comforted, and he ſaid; <hi>for I will go down into the grave unto my ſonne mourning;</hi> thus his father wept for him, <hi>Gen.</hi> 37.33, 34, 35. <hi>Rachel weeping for her children, refuſed to be comforted, becauſe they were not, Ierem.</hi> 31.15. And <hi>Lyra</hi> faith, it was a tradition among the Jews, that <hi>Rachels</hi> Tombe did lament and weep to the Iſraelites paſſing by there, when they were taken captives by the Babylonians, and lead to <hi>Babylon.</hi> And <hi>Hierom</hi> reports of <hi>Pau<g ref="char:EOLhyphen"/>la,</hi> that ſhe would grieve at the death of her husband, and children, that ſhe was alwayes like to die for ſor<g ref="char:EOLhyphen"/>row. Now the Apoſtle diſſwades from this, 1 <hi>Theſ.</hi> 4.13, 14. By believing the great Articles of the Reſurrection.</p>
+            <p>
+               <note n="*" place="margin">Baal Turim.</note> The Hebrews gather from <hi>Gen.</hi> 23.2. Be<g ref="char:EOLhyphen"/>cauſe the letter <hi>Caph</hi> is leſſe than all the reſt; <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> wept but a little for <hi>Sarab;</hi> not as if he did care for her but a little, but to ſhew moderation: though the death of publick perſons calls for a greater ſtream of tears, than the death of others, yet there is ſtill to be obſerved a due proportion. The Turks mourn in white, and but a little ſaith <hi>Sandys.</hi> The Egyptians mourn too much.</p>
+            <pb n="24" facs="tcp:118966:15"/>
+            <p n="2">2. Who mourn deſperately, as <hi>Sauls Armour<g ref="char:EOLhyphen"/>bearer ſeeing his Maſter fall, falls on his own Sword, and kills himſelf,</hi> 1 Sam. 31.5. and the Ethiopians ſeeing their King dead, ſlay themſelves. The ſpeech of <hi>Thomas</hi> to his fellow-diſciples, <hi>let us alſo go that we may dye with him,</hi> John 11.16. meaning dead <hi>Lazarus,</hi> ſavoured much more of true affection, than regula<g ref="char:EOLhyphen"/>ted zeal. God that made a Law that none ſhould kill another, made no ſuch proviſo, that any ſhould be <hi>Felo de ſe,</hi> and kill himſelf.</p>
+            <p n="3">3. <note place="margin">Read <hi>Buxtorf. Synag. c.</hi> 35. <hi>de ſepultura mor<g ref="char:EOLhyphen"/>tuorum Judaeo rum.</hi>
+               </note> Who mourn ſuperſtitiouſly, <hi>Jerem.</hi> 16.5, 6. <hi>Levit.</hi> 19.28. <hi>Ye ſhall not make any cuttings in your fleſh for the dead, nor print any marks upon you,</hi> as the Arabians, and other Heathens. The womens weeping for <hi>Tammuz,</hi> Ezek. 8.14, 15. whether it were an idolatrous Prophet, or <hi>Adonis,</hi> or <hi>Oſiris</hi> King of <hi>Egypt,</hi> or a beaſt, or the Sunne in ſome fi<g ref="char:EOLhyphen"/>gure; the lamentation was a great abomination, and this their wailing was to be bewailed.</p>
+            <p>So that the Rules of mourning muſt be theſe. It muſt be 1. Real; 2. Affectionate; 3. Chriſtian; 4. Proportionable; 5. Charitable and Merciful; and 6. Scriptural, according to the Canon of the Word.</p>
+            <milestone type="tcpmilestone" n="3" unit="Use"/>
+            <p>The third and laſt Uſe is of Exhortation</p>
+            <p>To quicken us to be affected with the ſtroak of Gods hand, and to grieve for the death of the thrice Illuſtrious <hi>Oliver</hi> of BLESSED Memory.
+<note place="margin">BLESSED.</note> The People were not ſenſible of King <hi>Uzziahs</hi> death; <hi>Evil men underſtand not judgment, but they that ſeek the Lord underſtand all things,</hi> Prov. 28.5. <hi>For
+<pb n="25" facs="tcp:118966:15"/>all this I conſidered in my heart, even to declare all this, that the righteous, and the wiſe, and their workes are in the hand of God,</hi> Eccleſ. 9.1. Woe is me ſaith <hi>Micah, chap.</hi> 7.2. <hi>The good man is periſhed out of the earth:</hi> And to provoke all the people in the three Nations to mourn, let them,</p>
+            <p n="1">1. Conſider <hi>His Dignity;</hi>
+               <note place="margin">1. <hi>Motive.</hi>
+               </note> who was raiſed up to the higheſt place in government, and lifted into the Throne by the prayers of Gods people; and not by the ambitious and uſurped lift of ſelf-exaltation, as
+<note n="*" place="margin">The rebelli<g ref="char:EOLhyphen"/>ous exalt themſelves. Pſ. 66.7. The Rule of <hi>Diogenes</hi> was this, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> — THOU muſt be impudent and bold, and THOU muſt ſlander Kings and private perſons; for ſo it ſhall come to paſſe that all will caſt their eyes upon THEE, and judge THEE Valiant. <hi>Samoſatenſis. tom.</hi> 1. <hi>p.</hi> 366.</note> ſelf-exalting Diogenians Stentorize. In which ſtation <hi>(abſit invidia verbo)</hi> no Prince did behave himſelf more unbyaſſedly, religiouſly, and prudentially than he.</p>
+            <p n="2">2. Conſider <hi>his worth;</hi> being a man every way fitted and furniſhed for the diſcharge of ſo great a work, and ſo high a calling. Eminent he was,</p>
+            <p n="1">1. In <hi>his Juſtice</hi> commutative and diſtributive; puniſhing few, and rewarding many beyond their de<g ref="char:EOLhyphen"/>ſervings with life and liberty, who had prodigiouſly forfeited both.</p>
+            <q>Et piger ad poenas Princeps, ad praemia Velox, Quique dolet quoties cogitur eſse ferox.</q>
+            <p>Walking by that golden Rule, 2 <hi>Sam.</hi> 23.3. <hi>He that ruleth over men, muſt be juſt, ruling in the fear of God.</hi>
+            </p>
+            <pb n="26" facs="tcp:118966:16"/>
+            <p n="2">2. In <hi>his Religion;</hi> being a man mighty in Scripture, enjoying a praying Spirit, a Spirit of communion with God, love to all the Saints, and living by faith in all his actions; Making the intereſt of Chriſt his own, and in his practice aſſerting the poſition of
+<note n="*" place="margin">Non fundatur Dominium niſi in Imagine Dei.</note> 
+               <hi>Hugo, Dominion is not founded but in Gods Image.</hi> Animating and ſetling learned and godly Miniſters; extending his beams (as <hi>Charles</hi> the fifth notes of a good Ruler) like the Sunne even to the dark places, and providing an Act to confirme the titles of Miniſters; and ſhewing to the Miniſtry in general (ſo ſetled) ſo great affection, as emulato<g ref="char:EOLhyphen"/>ry to the Miniſtry of all the Nations round about us: endeavouring and conſulting an expedient to cement both Miniſters and Profeſſors of the claſſical and congregational way, the grief for whoſe diviſions lay heavy on his ſpirit till the laſt; ſympathizing with the diſtreſſed Proteſtants in <hi>Peidmont, Poland,</hi> and other places, who reſorted to him, as affrighted chickens to the Hens wing for ſhelter, and eſteemed him the Protectour General of the Proteſtant Religi<g ref="char:EOLhyphen"/>on: patronizing the Dutch, French and Italian Con<g ref="char:EOLhyphen"/>gregations in their priviledges and rites: paſſing that that full and admirable bill for the Celebration of the Lords day: and like another <hi>Conſtantine</hi> when Re<g ref="char:EOLhyphen"/>ligion was languiſhing, even at the laſt gaſp, was her Phyſician, who did adminiſter a ſeaſonable reſtora<g ref="char:EOLhyphen"/>tive, if not miraculouſly work a reſurrection.</p>
+            <p n="3">3. In <hi>his kindneſses</hi> to the Nation; for what <hi>Tertullus</hi> ſaid of the Governour, <hi>Acts</hi> 24.2. might be ſaid of him, that we did enjoy great quietneſſe, and very worthy deeds. Witneſſe his zeal and wiſ<g ref="char:EOLhyphen"/>dome in aſſwaging that purple deluge of Engliſh and
+<pb n="27" facs="tcp:118966:16"/>Hollandiſh blood: he was the Dove with the Olive branch, who did not only declare Peace, but effect it. He was the true <hi>Chobeſch,</hi> the binder up of our wounds, and ſtopper of that bloody iſſue of both Nations; and did not only renew friendſhip with the <hi>Nether<g ref="char:EOLhyphen"/>landers,</hi> but with <hi>France, Portugal,</hi> and <hi>Swethland</hi> alſo. Witneſſe his diſciplining of the Army; his encouraging of Trade and Merchandizing; his gene<g ref="char:EOLhyphen"/>ral care for the preſervation of the whole; the timous preventing of Hoſtilities abroad, and the ſpeedy cruſh<g ref="char:EOLhyphen"/>ing of Cockatrices in the egge at home: his neglect<g ref="char:EOLhyphen"/>ing of a Crown when offered with many preſſive and expreſſive Parliamentary perſwaſions: his paſſing ſo many advantagious bills the laſt Parliament:
+<note place="margin">Begun <hi>Anno</hi> 1656.</note> his unſpeakable condeſcenſion to do the meaneſt offices for the welfare of unthankful men: inſomuch that he was pleaſed to acknowledge, that in the juncture of broyles, he did but execute the truſt of a Conſtable to keep all quiet; and what is <hi>Conſtabularius,</hi> but a ſtable-Groom to make unruly horſes tame, and ſtand together? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith
+<note n="*" place="margin">Ethio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ic.</note> 
+               <hi>Heliodorus,</hi> the Prince did ſeem to ſerve; ſo that what an Italian Diſcourſer ſaid, there was never any State ſo ſwadled in its infancy as the Roman was by the firſt King, may be better ſaid of this Protector. And what
+<note n="*" place="margin">
+                  <hi>Pro</hi> Deiotare, <hi>multa ſunt tuae clementiae Mo<g ref="char:EOLhyphen"/>numenta, ſed maxime eorum incolumitates.</hi>
+               </note> 
+               <hi>Cicero</hi> ſaid of King <hi>Deiotarus,</hi> let me ſay of him, that truly many were the Monuments of his kindneſſe, but eſpecially this, the Peoples ſafety and preſerva<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="4">4. In his valour from the Garriſon of <hi>Ely</hi> to the laſt <hi>Worceſter</hi> fight; his faith many times ſubdued before he ſtruck a ſtroak; and his name was more terrible than that of
+<note n="*" place="margin">Turcomaſtix.</note> 
+               <hi>Scanderbeg.</hi>
+            </p>
+            <pb n="28" facs="tcp:118966:17"/>
+            <q>
+               <l>— Plus nominis horror</l>
+               <l>Quam tuus enſis aget. —</l>
+            </q>
+            <p>When <hi>England, Scotland</hi> and <hi>Ireland</hi> were all in a blaze, he was the Ranſomer of the Nations, and the common extinguiſher and quench-coal. The Ar<g ref="char:EOLhyphen"/>my at <hi>Marſton-moore</hi> were put into a quaking ague but at the report of his being in hurt and in danger. At <hi>Tredagh</hi> he ſtood himſelf in the breach, before the mouth of the thundering Cannon; where gal<g ref="char:EOLhyphen"/>lant Colonel <hi>Caſtle</hi> and others were ſlain. He was the long Parliaments battle-axe on every turn; as <hi>Edgar Etheling,</hi> he was <hi>Englands</hi> darling; and the Parliament could be no leſſe without him, than <hi>Henry</hi> the eighth could be without the aſſiſtance of <hi>Thomas Cromwel</hi> Earle of <hi>Eſſex,</hi> the root of this Glorious Branch.</p>
+            <p>He was called <hi>Malleus Monachorum in ſpecie,</hi>
+               <note place="margin">Martyrolog.</note> but Renowned <hi>Oliver</hi> was <hi>Malleus Inimicorum,</hi> the mawle of enemies in the very <hi>genus:</hi> and if the Lord Protector in the Reign of King <hi>Edward</hi> the ſixth, purchaſed ſo much honour in one battle at <hi>Muſcle<g ref="char:EOLhyphen"/>borough</hi> field in the year 1548. then much more were the laurels of him who diſputed ſo many hot bat<g ref="char:EOLhyphen"/>tels with ſucceſſe at <hi>Preſton, Marſton-moore, Dunbar, Worceſter, Nazby, &amp;c.</hi>
+            </p>
+            <q>Quae Regio in terris noſtri non plena laboris!</q>
+            <p>So that I may ſpeak of him what was ſpoken of <hi>Charles</hi> the great, that he was a good Prince, and
+<pb n="29" facs="tcp:118966:17"/>a valiant Souldier; and ſuch was his valour,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that as <hi>Scipio</hi> by <hi>Rome,</hi> and <hi>Camillus</hi> by <hi>Fabius Maximus,</hi> ſo he was envied living, and is now admired being dead.</p>
+            <q>— Sublatum ex oculis quaerimus invidi.</q>
+            <p>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. In Ajace.</note> As <hi>Sophocles</hi> ſpeaks, men never prize a mer<g ref="char:EOLhyphen"/>cy but when it is gone; and ſaith <hi>Solomon,</hi> Prov. 17.16. <hi>There is a price in the hand of a fool, and he hath no heart to it;</hi> and one thing more I cannot bury in ſilence; he alwayes gave very honou<g ref="char:EOLhyphen"/>rable termes and articles of war, and was as punctual in making them good; which rendred himſelf in the eyes of the vanquiſhed and the world truly honou<g ref="char:EOLhyphen"/>rable.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Sparguntur in omues, In te mixta flu<g ref="char:EOLhyphen"/>unt; &amp; quae Diviſa bea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s Efficiunt, colle<g ref="char:EOLhyphen"/>ctatenes.</hi> — Claridian.</note> Thoſe lines of Honour which by refractions ran diſperſedly in others, in him were knit up as their na<g ref="char:EOLhyphen"/>tural centre: and what made others happy in diviſion, was in him a Colledge of vertues ſolemnly met and ſeated.</p>
+            <p n="5">5. In his Prudence, and mannaging of Affaires both Military and Civil, as <hi>Pliny</hi> ſaith of <hi>Mauricius</hi> the Emperour,
+<note n="*" place="margin">
+                  <hi>Vir grav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, prulea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, multis experimentis e<g ref="char:EOLhyphen"/>ruditus, &amp; qui futura poſſit ex praeteritis provi<g ref="char:EOLhyphen"/>dere.</hi> Epiſtol.</note> he was a man grave, prudent, taught by many experiences, and who could fore-ſee things to come, by what was paſt. As for Civil Affairs, he had with <hi>Veſpaſian</hi> learned what was the overthrow of the Lutiniſt <hi>Nero,</hi> in winding the pins of Government ſometimes too high, and ſometimes letting them down too low: and
+<note n="*" place="margin">Chytraeus in Herodotum.</note> that the deſtru<g ref="char:EOLhyphen"/>ction of <hi>Aſtyages, Croeſus,</hi> and <hi>Xerxes</hi> was cruelty,
+<pb n="30" facs="tcp:118966:18"/>pride and ambition; and that the eſtabliſhment of the Common-wealth of <hi>Cyrus, Dioces, Darius, Mil<g ref="char:EOLhyphen"/>tiades, Themiſtocles, Pauſanias</hi> and others, was by prudence: he did as <hi>Charles</hi> the fifth ſaid of a good Ruler, like <hi>Saturne</hi> the higheſt planet move ſlowly, doing all things with deliberation
+<note n="*" place="margin">Ne quid reſ<g ref="char:EOLhyphen"/>publica caperet detrim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi.</note>, that the Com<g ref="char:EOLhyphen"/>mon-wealth might take no harme. And as for Mili<g ref="char:EOLhyphen"/>tary Affairs, his prudence was not inferiour, both in the Diſcipline of the Army, and in his frequent Ora<g ref="char:EOLhyphen"/>tions at the heads of Regiments before engaging to encourage them both againſt the fear of the enemy and death;
+<note place="margin">
+                  <hi>Nulla vox hu<g ref="char:EOLhyphen"/>mana exiſtima tur dulciùs He rodotores maxi<g ref="char:EOLhyphen"/>mas narrare, a<g ref="char:EOLhyphen"/>deò ut Muſae à veteribus fin<g ref="char:EOLhyphen"/>gantur ore</hi> He<g ref="char:EOLhyphen"/>rodoti <hi>eſſe lo<g ref="char:EOLhyphen"/>cutae.</hi>
+               </note> as if every Muſe had given books to this <hi>Herodotus.</hi> No mans voice is thought to relate great things more ſweetly than <hi>Herodotus,</hi> ſo that the Mu<g ref="char:EOLhyphen"/>ſes were feigned by the Ancients to have ſpoken in his mouth; of whom thus <hi>Friſius</hi> ſings;
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p n="6">6. In his diligence about the guards at night; inſomuch that about the evening dusk he would ride <hi>Incognito</hi> as a private Souldier to take a view of the Guards and the Souldiers duty. His preſence like that of <hi>Europus</hi> King of <hi>Macedonia</hi> did animate them; and the ſpeech of <hi>Sulpitius Galba</hi> to his was ſtill in reciprocation, <hi>Ego veſter, &amp; vos mei,</hi> I am yours, and you are mine.</p>
+            <p n="7">7. In his love and affability, as was evident in addreſſes to him, as I my ſelf was an eye-witneſſe at <hi>Barkhampſted</hi> 1647. when the head-quarters were there. That what
+<note n="*" place="margin">
+                  <hi>Omnes ſemper in</hi> Deiotaro <hi>virtutes, ſed praecituè ſingu<g ref="char:EOLhyphen"/>laris &amp; admi<g ref="char:EOLhyphen"/>randa frugali<g ref="char:EOLhyphen"/>tas; fuit fortis, juſtus, ſeverus, gravis, magna<g ref="char:EOLhyphen"/>nimus, largus, beneficus, libera<g ref="char:EOLhyphen"/>lis. Hae ſunt Re<g ref="char:EOLhyphen"/>giaelaudes.</hi>
+               </note> 
+               <hi>Tully</hi> ſaid of King <hi>Deiotarus,</hi> may be to him applied, all theſe vertues were eminent
+<pb n="31" facs="tcp:118966:18"/>in <hi>Deiotarus;</hi> but eſpecially his ſingular and admirable frugality, he was ſtrong, juſt, ſevere, grave mag<g ref="char:EOLhyphen"/>nanimous, large, kind and liberal. Theſe, theſe are the Royal praiſes of the glorious Saint.</p>
+            <p n="8">8. In his death, in that he died,</p>
+            <p n="1">1. With much aſſurance as to himſelf, like holy <hi>Paul,</hi> 2 <hi>Tim.</hi> 4.7, 8. <hi>I have fought a good fight, I have finiſhed my courſe, I have kept the faith;</hi> and though the Senate hath deſervedly adorned him dead with a Crown, and other Regal Enſignes, which living he refuſed, <hi>There is laid up for him a Crown of righteouſneſs, a Crown immarceſſible,</hi> 1 Pet. 5.4. <hi>Quarta Perennis.</hi>
+            </p>
+            <p>
+               <hi>Seneca</hi> as he lived vertuouſly, ſo he chearfully died with this verſe in his mouth,
+<q>Vixi, &amp; quem dederit curſum fortuna, peregi.</q>
+            </p>
+            <p>And as <hi>Friſius</hi> ſaid of <hi>Plato,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> he ſhined as the morning ſtarre amongſt the living, and dying, the evening ſtar amongſt the dead.</p>
+            <p>And though he had been in deaths often, and fa<g ref="char:EOLhyphen"/>ced death as often as he fought battles, and though his death had been attempted by <hi>Sundercombe,</hi> and o<g ref="char:EOLhyphen"/>thers, yet he died not a violent, but a natural death, in his own perſonal peace, and peace of his King<g ref="char:EOLhyphen"/>domes, being full of dayes, and lies now in the bed of honour: and on the third day of <hi>September,</hi> 1658. he received his Writ of eaſe from all his more than Herculean labours, which had been a day one year af<g ref="char:EOLhyphen"/>ter another, <hi>viz. Anno</hi> 1650. &amp; <hi>Anno</hi> 1651. rubrick't with two remarkable victories at <hi>Dunbar</hi> and <hi>Worceſter,</hi> as <hi>Antipater</hi> died on the ſame day of his ri<g ref="char:EOLhyphen"/>ſing.</p>
+            <pb n="32" facs="tcp:118966:19"/>
+            <p n="2">2. With much grief to others. <hi>Octavian</hi> and <hi>Titus Veſpaſian</hi> were not more lamented; of the for<g ref="char:EOLhyphen"/>mer it was ſaid, Would to God he had not been born, or never died; and of the latter, that he was
+<note n="*" place="margin">Amor, &amp; Vi<g ref="char:EOLhyphen"/>ctor, &amp; deliciae humani generis.</note> the Love, Conquerour and delights of mankinde, to whom <hi>Speed</hi> compares our <hi>Henry</hi> the fifth. And ſuch was the la<g ref="char:EOLhyphen"/>mentation of the Emperour <hi>Severus,</hi> that
+<note n="*" place="margin">Aut non naſci, aut non mori debaiſſe.</note> the Se<g ref="char:EOLhyphen"/>nate of <hi>Rome</hi> ſaid, he ſhould either not be borne, or not die. Our Engliſh Senate much laments his death, of whom it may be ſaid, as of <hi>David,</hi> Acts 13.36. <hi>After he had ſerved his own generation, by the will of God he fell on ſleep.</hi> 1 Chron. 29.28. <hi>He died in a good old age, full of dayes, riches and honour, and Solomon his ſon reigned in his ſtead.</hi> On whom the Criticks made this Epitaph,
+<q>
+                  <l>Here lies <hi>David,</hi> who when he was a boy</l>
+                  <l>Slew Lyons and Bears;</l>
+                  <l>In his middle age great <hi>Goliah;</hi>
+                  </l>
+                  <l>When he was a little older, great enemies,</l>
+                  <l>The Philiſtins;</l>
+                  <l>And in his old age, overeame himſelf.</l>
+               </q>
+            </p>
+            <p n="9">9. In his fame, —
+<note n="*" place="margin">Statius.</note> 
+               <hi>Notum per ſaecula nomen.</hi> His memory as <hi>of the juſt is bleſſed,</hi> Prov. 10.4. <hi>and ſhall be an everlaſting foundation,</hi> ver. 25. whence the Rabbins in their quotations of any eminent Au<g ref="char:EOLhyphen"/>thour deceaſed, uſually ſubjoyne this honourable com<g ref="char:EOLhyphen"/>memoration<g ref="char:punc">▪</g> 
+               <hi>BENEDICTAE MEMORIAEN.</hi> or ſuch an one of bleſſed memory; <hi>Memoria ejus ſit in Benedictione. The righteous ſhall be in everlaſting re<g ref="char:EOLhyphen"/>membrance,</hi>
+               <note place="margin">HAPPY.</note> Pſal. 112.6. <hi>OLIVER</hi> of HAPPY MEMORY: this the ſecond motive.</p>
+            <pb n="33" facs="tcp:118966:19"/>
+            <p n="3">3. Conſider your own ſins. Our ſins have haſt<g ref="char:EOLhyphen"/>ned the Protectours removal; as unthankfulneſſe, pride, animoſities, avarice, formality and licentiouſ<g ref="char:EOLhyphen"/>neſſe. Theſe were the ague fits which have expelled his breath, and our obduracy the ſtone which hath ſunk him to the grave. And we may ſay, as <hi>Bradford</hi> ſaid of the death of King <hi>Edward</hi> the ſixth King of <hi>England,</hi> Our ſins made holy <hi>Oliver</hi> die.</p>
+            <p n="4">4. Conſider our own loſſe. The loſſe of a General, is a general loſſe. The loſſe of him, is a complexion, or rather a complication of loſſes. We have loſt a Captain, a Shield, the Head, an Heire of Reſtraint, the Breath of our Noſtrils, an Healer, a Shepherd, a Father, and a Nurſing Father, a Corner-Stone, a Builder, a Watchman, an Eye, a Saviour, a Steerſ-man and Rector, a Pilot, and a Common Husband.</p>
+            <p n="5">5. Laſtly conſider our miſeries which we deſerve; even the miſeries which befell <hi>Judah</hi> and <hi>Jeruſalem</hi> after <hi>Joſiah</hi>'s death, in the dayes of <hi>Jehoahaz, Jehoia<g ref="char:EOLhyphen"/>kim</hi> and <hi>Zedekiah,</hi> deſolation of Cities, Temple, Families, and a Captivity ſtricter, and longer than a Babylonian; which the Lord in mercy turn from us, and turn us to him by true and unfeigned repen<g ref="char:EOLhyphen"/>tance. <hi>O England repent, repent.</hi>
+            </p>
+            <p>And now conſidering all theſe incentives, who can refrain from weeping?
+<q>
+                  <l>Quis enim tam triſtia fando.</l>
+                  <l>Myrmidonum, Dolopúmve, aut Diri Miles <g ref="char:V">Ʋ</g>lyſsei</l>
+                  <l>Temperet à lachrymis?</l>
+               </q>
+            </p>
+            <p>And if any ſhould ask me what is the cauſe of ſo much mourning? I anſwer with <hi>Ambroſe</hi> telling
+<pb n="34" facs="tcp:118966:20"/>the cauſe of his grief to a friend for the deceaſe of an eminent perſon, demaunding the queſtion,
+<note n="*" place="margin">Quia di ficile eſſet ſimilem ei invenire.</note> Becauſe it would be a hard thing to finde one like to him. Saith God of <hi>Solomon,</hi> 1 Kings 3.12. <hi>There was none like him, neither after him ſhould ariſe any like him.</hi>
+            </p>
+            <q>
+               <l>Anglia,</l>
+               <l>Nec primum ſimilem viſa es, nec habere ſequentem.</l>
+            </q>
+            <p>He hath wonne the Palme, Victory, hath ſetled the Olive, Peace, and hath left his friends to hang
+<note n="*" place="margin">Plectra dolo retacent, muta dolore lyra eſt.</note> their Harps upon the Willow.</p>
+            <p>Truly I may ſay his Deeds deſerve a full, diſtinct, and faithful Chronicle, which were ſo ſuperlative, that a ſucceeding generation of no little faith would ſcarce ſuppoſe them credible: yet of him I may dare ſay, as was ſaid of the Royal Princeſſe, <hi>Prov.</hi> 31.29. <hi>Ma<g ref="char:EOLhyphen"/>ny Princes have done vertuouſly, but Renowned</hi> OLIVER <hi>hath excelled them all.</hi>
+            </p>
+            <p>But here an <hi>Aſthma</hi> ſtops me; for with
+<note n="*" place="margin">Si omnia cor<g ref="char:EOLhyphen"/>poris mei mem<g ref="char:EOLhyphen"/>bra verterentur in lacbryma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> holy <hi>Hierom,</hi> if all the members of my body were conver<g ref="char:EOLhyphen"/>ted into tears, yet in this ſhort variety of words, I fear I ſhould have ſilenced more than what is ſpoken; and with
+<note n="*" place="margin">
+                  <hi>Silere meliùs putem, quâm parum dicere.</hi> Saluſt.</note> him of <hi>Carthage,</hi> better may I judge to ſay nothing more, than ſpeak a little.</p>
+            <p>And therefore here die away my mourning pen, and let thy Manumitter ſob the reſt, — <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, eaſing his heart-bound grief by weeping forth this E<g ref="char:EOLhyphen"/>pitaph;
+<q>
+                  <l>HIC JACET TOTI<g ref="char:V">Ʋ</g>S ANGLIAE, SCOTIAE,</l>
+                  <l>ET HIBERNIAE IND<g ref="char:V">Ʋ</g>PERATOR,</l>
+                  <l>ET</l>
+                  <l>TOTI<g ref="char:V">Ʋ</g>S CHRISTIANISMI MIRAC<g ref="char:V">Ʋ</g>L<g ref="char:V">Ʋ</g>M,</l>
+                  <l>OLIV ARI<g ref="char:V">Ʋ</g>S.</l>
+               </q>
+            </p>
+            <pb n="35" facs="tcp:118966:20"/>
+            <p>But now methinks I hear the treading feet, and the reviving voice of his Royal Succeſſor ſaying, Why make you this ado, and weep? hath not my father of admired fame by the advice of Parliament provided a ſucceſſion to prevent the Rivalry of all pretenders, and ten thouſand woes?</p>
+            <p>O my Lord, you are the <hi>Honorius</hi> of our deceaſed <hi>Theodoſius,</hi> his eldeſt ſon, the rightful heir; you do patrize and walk in your fathers ſteps, you are entred into the Harveſt of your fathers dear-bought labours, and may you and yours reap the ſweetneſſe of them to many generations.</p>
+            <p>But yet give me leave to vent theſe Votes, and pray,
+<note place="margin">2. Directions to prevent mi<g ref="char:EOLhyphen"/>ſeries after the Protectours death.</note> 1. For your Highneſs; That the God of Counſels would direct you, your Council, Armies, and the whole Land, that you may be a father of thouſands of millions, and that your ſeed may poſſeſſe the gate of them that hate you; that <hi>Jacobs</hi> legacy to <hi>Joſeph</hi> may be your portion, <hi>Gen.</hi> 49.26. <hi>Surpaſſing bleſ<g ref="char:EOLhyphen"/>ſings may crown your Head,</hi> that the advice of your languiſhing father on his death bed may not be for<g ref="char:EOLhyphen"/>gotten;
+<q>
+                  <l>Tu Civem, Patremque geras; lu conſule cunctis,</l>
+                  <l>Nec tibi; nec tua te moveant, ſed publica vota;</l>
+               </q>
+            </p>
+            <p>As <hi>Theodoſius</hi> counſelled <hi>Honorius,</hi> That in the ſtrength of Jeſus Chriſt
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plutarch.</note>, you would rouze and beſtir your ſelf; for without Chriſts aſſiſtance, the government of three Nations would quickly ſink you.
+<note n="*" place="margin">
+                  <hi>Grande opus, &amp; ſub quo ſu<g ref="char:EOLhyphen"/>daret</hi> Olym<g ref="char:EOLhyphen"/>pifer Atlas,<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <q>
+               <l>— <hi>A</hi> work ſo great</l>
+               <l>Would make <hi>Olympus</hi>-bearing-<hi>Atlas</hi> ſweat.</l>
+            </q>
+            <pb n="36" facs="tcp:118966:21"/>
+            <p>And that the wilde dream of raving <hi>Porphyrius</hi> in <hi>Gildas, Britannia eſt fertilis Provincia Tyrannorum,</hi> may by your godly and prudential Regency be prov'd a lye.</p>
+            <p n="2">2. That your Subjects would ſtudy loyalty, peace, and love, that you may not be aſhamed of them, nor they afraid of you; and that they may be as willing upon all occaſions to ſerve you; as <hi>Ittai,</hi> and his ſer<g ref="char:EOLhyphen"/>vants, <hi>David,</hi> 2 Sam. 15.15, 21.
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—</note> Said <hi>Ignatius</hi> in an Epiſtle to the Smyrneans, The people ought to ho<g ref="char:EOLhyphen"/>nour the Prince; for there is none more excellent and near to God in the Univerſity of things than he. And</p>
+            <p n="3">3. That both you, and all might mind our own mor<g ref="char:EOLhyphen"/>talities, while we are called upon to bewail the death and ſickneſſes of others; Said <hi>Elihu</hi> to <hi>Job,</hi> chap. 36.18. <hi>Becauſe there is wrath, beware leſt he take thee away with his ſtroak.</hi> But here I ſhall conclude with the vote of <hi>Tertullian</hi> to <hi>Trajan</hi> the Emperour, wiſhing your Highneſſe
+<note n="*" place="margin">Vitam prolix<g ref="char:EOLhyphen"/>am, Imperium ſecurum, Domum tutam, Exerci<g ref="char:EOLhyphen"/>tus fortes, Se<g ref="char:EOLhyphen"/>natum fidelem, Populum pro<g ref="char:EOLhyphen"/>bum, &amp; Or<g ref="char:EOLhyphen"/>bem quietum.</note> LONG LIFE, A SECURE REIGNE, A SAFE HOUSE, VALIANT FORCES, A FAITHFUL SENATE, A GOOD PEOPLE, AND A QUIET WORLD.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118966:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
